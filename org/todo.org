@@ -1,0 +1,10 @@
+* TODO Implement Client
+  Implement Basic Functions
+
+  SCHEDULED: today
+  :PROPERTIES:
+  :CATEGORY: rust, tic tac toe
+  :END:
+
+
+* TODO Implement TCP Server
